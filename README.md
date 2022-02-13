@@ -1,7 +1,7 @@
 # Project Demo Link
 
 A simple movie manager application developed using MERN Stack. Can watch the project demo in the link below.
-https://drive.google.com/file/d/1JKr6LX9j768xvDpDYyD1CocH-OuVzfLd/view?usp=sharing
+https://youtu.be/8E5hfYPRFp0
 
 ## Getting Started with Create React App
 
